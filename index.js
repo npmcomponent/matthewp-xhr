@@ -1,7 +1,7 @@
-var forIn = require('for-in'),
-    xobj = require('xhr'),
-    indexof = require('indexof'),
-    XhrError = require('xhrerror');
+var forIn = require('kewah-for-in'),
+    xobj = require('yields-xhr'),
+    indexof = require('component-indexof'),
+    XhrError = require('matthewp-xhrerror');
 
 function noop() { }
 

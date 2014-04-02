@@ -1,0 +1,18 @@
+{
+  "name": "matthewp-xhr",
+  "description": "Tiny, simple, xhr requests.",
+  "version": "0.0.1",
+  "keywords": [
+    "ajax",
+    "xmlhttprequest",
+    "xhr"
+  ],
+  "main": "index.js",
+  "dependencies": {
+    "matthewp-xhrerror": "git://github.com/npmcomponent/matthewp-xhrerror.git",
+    "kewah-for-in": "git://github.com/npmcomponent/kewah-for-in.git",
+    "yields-xhr": "git://github.com/npmcomponent/yields-xhr.git",
+    "component-indexof": "git://github.com/npmcomponent/component-indexof.git"
+  },
+  "license": "MIT"
+}
